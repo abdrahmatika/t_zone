@@ -1,0 +1,11 @@
+{
+    "name": "packages/rahmat",
+    "authors": [
+        {
+            "name": "Abd Rahmat Ika",
+            "email": "abd.rahmat.ika@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
