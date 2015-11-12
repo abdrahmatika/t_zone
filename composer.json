@@ -1,5 +1,5 @@
 {
-    "name": "packages/rahmat",
+    "name": "rahmat/rtimezone",
     "authors": [
         {
             "name": "Abd Rahmat Ika",
@@ -7,5 +7,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rahmat\\Rtimezone\\": "src/"
+        }
+    }
 }
